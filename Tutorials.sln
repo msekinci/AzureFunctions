@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorials.AzureFunctions", "Tutorials.AzureFunctions\Tutorials.AzureFunctions.csproj", "{DEF70AE5-2487-4F13-9E38-8F9BA5085CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorials.Core", "Tutorials.Core\Tutorials.Core.csproj", "{B19F514D-158C-4013-9793-6D2D8F40B699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF70AE5-2487-4F13-9E38-8F9BA5085CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF70AE5-2487-4F13-9E38-8F9BA5085CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF70AE5-2487-4F13-9E38-8F9BA5085CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF70AE5-2487-4F13-9E38-8F9BA5085CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19F514D-158C-4013-9793-6D2D8F40B699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19F514D-158C-4013-9793-6D2D8F40B699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19F514D-158C-4013-9793-6D2D8F40B699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19F514D-158C-4013-9793-6D2D8F40B699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
